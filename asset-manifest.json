@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/react_upload/static/css/main.43fc4ac5.css",
+    "main.js": "/react_upload/static/js/main.d045c6cc.js",
+    "static/js/787.8cbc72a6.chunk.js": "/react_upload/static/js/787.8cbc72a6.chunk.js",
+    "static/media/dentist1Img.jpg": "/react_upload/static/media/dentist1Img.ed41fe687596d17b3d08.jpg",
+    "static/media/dental-hygiene-N2006.jpg": "/react_upload/static/media/dental-hygiene-N2006.47f4b73cd4408de69dd7.jpg",
+    "index.html": "/react_upload/index.html",
+    "main.43fc4ac5.css.map": "/react_upload/static/css/main.43fc4ac5.css.map",
+    "main.d045c6cc.js.map": "/react_upload/static/js/main.d045c6cc.js.map",
+    "787.8cbc72a6.chunk.js.map": "/react_upload/static/js/787.8cbc72a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.43fc4ac5.css",
+    "static/js/main.d045c6cc.js"
+  ]
+}
